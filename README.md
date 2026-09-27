@@ -1,2 +1,2 @@
 # numerical-methods
-Numerical methods implemetations in Python  that I developed for college and to learn, including ODE solvers, numerical integration, and interpolation.
+A collection of numerical methods implemetations in Python, developed for college and self-learning, including ODE solvers, numerical integration, and interpolation.
