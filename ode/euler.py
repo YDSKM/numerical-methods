@@ -1,4 +1,3 @@
-import numpy as np
 def euler(h,x,y):
   l=[]
   l.append(y)
